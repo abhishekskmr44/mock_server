@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "name": "Chandra",
+      "name": "Kumar",
       "age": 29,
       "place": "Visakhapatnam",
       "batch_name": "WEB-21",
@@ -9,7 +9,7 @@
     },
     {
       "id": 1,
-      "name": "Nrupul",
+      "name": "Vishwas",
       "age": 32,
       "place": "Vijayawada",
       "batch_name": "WEB-18",
